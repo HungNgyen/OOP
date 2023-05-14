@@ -1,6 +1,6 @@
 
 package controller;
-
+import java.util.Scanner;
 
 import javax.swing.JFrame;
 import model.User;
